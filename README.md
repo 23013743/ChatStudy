@@ -1,5 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+
+## Name: NIRMAL .N
+## REG NO :212223240107
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
