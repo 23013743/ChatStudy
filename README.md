@@ -111,12 +111,12 @@ while True:
 ## OUTPUT
 ## CLIENT:
 
-![Screenshot 2024-04-29 131848](https://github.com/23013743/ChatStudy/assets/161271714/55edd7c4-0a95-43ae-87d0-a9917d0f0668)
+![1b cl](https://github.com/23013743/ChatStudy/assets/161271714/e6e4a49c-00bf-46a4-b7fc-cf92d6c7c4b7)
 
 
 ## SERVER:
 
-![Screenshot 2024-04-29 131856](https://github.com/23013743/ChatStudy/assets/161271714/b4c504c8-e5f5-40c6-9baf-2141fb50de9f)
+![1bser](https://github.com/23013743/ChatStudy/assets/161271714/9b8a6193-0a22-4f65-8a70-e98456bcffda)
 
 ## Result:
 
